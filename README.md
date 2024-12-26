@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy <a href="https://github.com/SebastianTejada" target="_blank">Sebastián T.P</a></h1>
-<h3 align="center">Un apasionado desarrollador Full Stack en formación desde Neiva, Colombia 🌍</h3>
+<h3 align="center">Desarrollador Full Stack en formación desde Neiva, Colombia 🌍</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SebastianTejada&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
